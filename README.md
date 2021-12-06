@@ -1,6 +1,6 @@
 # David Gonçalves
 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MangaD) [![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/MangaD) [![Stack Overflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://stackoverflow.com/users/story/3049315) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=MangaD.visitor-badge)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MangaD) [![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/MangaD)
 
 - M.Sc. in **[Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/cursos/meic-t)** @ [IST](https://tecnico.ulisboa.pt)
   - Cyber-Security
