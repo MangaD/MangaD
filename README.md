@@ -10,7 +10,7 @@ Logos supported by shields.io: https://simpleicons.org
   - Cyber-Security
   - Distributed Systems
 - Favourite languages: C++, Python, JavaScript
-- Favourite editors: VS Code, IntelliJ, Juci++ 
+- Favourite editors: VS Code, IntelliJ, juCi++ 
 - Hobbies: Calisthenics, Cooking, Reading, Anime, Guitar
 
 ## Selected Projects
