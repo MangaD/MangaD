@@ -42,7 +42,17 @@ Most of my open source projects are on [GitLab](https://gitlab.com/MangaD).
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaD&show_icons=true&theme=github_dark)
 -->
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
 </p>
+
+---
+
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MangaD/MangaD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MangaD/MangaD/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
