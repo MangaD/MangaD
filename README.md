@@ -34,6 +34,15 @@ Most of my open source projects are on [GitLab](https://gitlab.com/MangaD).
 
 - [The Rich Group](https://gitlab.com/insomnium-eye/insomnium-eye.gitlab.io)
 
+---
+
+### GitHub Statistics
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MangaD&show_icons=true&theme=github_dark)
 -->
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
+</p>
