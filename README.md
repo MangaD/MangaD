@@ -56,3 +56,9 @@ Most of my open source projects are on [GitLab](https://gitlab.com/MangaD).
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MangaD/MangaD/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
+---
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/mangad"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="coffee" /></a>
+</p>
