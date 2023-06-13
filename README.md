@@ -12,10 +12,11 @@ Logos supported by shields.io: https://simpleicons.org
 - Favourite languages: C++, Python, JavaScript
 - Favourite editors: VS Code, IntelliJ, juCi++ 
 - Hobbies: Calisthenics, Cooking, Reading, Anime, Guitar
+- Music: [Classical music](https://www.youtube.com/watch?v=eLa685J5uA8), [calm piano music](https://www.youtube.com/watch?v=GdyJGbnJpG4), and [synthwave](https://www.youtube.com/watch?v=F7Qx7R655LI), to name a few.
 
 ## Selected Projects
 
-Most of my open source projects are on [GitLab](https://gitlab.com/MangaD).
+Most of my open source projects can be found on [my GitLab](https://gitlab.com/MangaD).
 
 **Personal:**
 
