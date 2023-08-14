@@ -11,6 +11,8 @@ Logos supported by shields.io: https://simpleicons.org
   - Distributed Systems
 - Favourite languages: C++, Python, JavaScript
 - Favourite editors: VS Code, IntelliJ, juCi++ 
+- Current interests: C++, Cyber-Security, DevOps
+- Secondary interests: Python, Qt, Compilers, Networking, Databases, Web, Android
 - Hobbies: Calisthenics, Cooking, Reading, Anime, Guitar
 - Music: [Classical music](https://www.youtube.com/watch?v=eLa685J5uA8), [calm piano music](https://www.youtube.com/watch?v=GdyJGbnJpG4), and [synthwave](https://www.youtube.com/watch?v=F7Qx7R655LI), to name a few.
 
