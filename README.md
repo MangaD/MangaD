@@ -9,8 +9,10 @@ Logos supported by shields.io: https://simpleicons.org
 - M.Sc. in **[Computer Science and Engineering](https://fenix.tecnico.ulisboa.pt/cursos/meic-t)** @ [IST](https://tecnico.ulisboa.pt)
   - Cyber-Security
   - Distributed Systems
-- Favourite languages: C++, Python, JavaScript
-- Favourite editors: VS Code, IntelliJ, juCi++ 
+- Primary language: C++
+- Secondary languages: Python, JavaScript
+- Primary editor: VS Code
+- Secondary editors: CLion, Qt Creator, IntelliJ, JuCi++
 - Current interests: C++, Cyber-Security, DevOps
 - Secondary interests: Python, Qt, Compilers, Networking, Databases, Distributed Systems, Web
 - Hobbies: Calisthenics, Cooking, Reading (history, religion, philosophy, health, nutrition), Anime, Guitar
