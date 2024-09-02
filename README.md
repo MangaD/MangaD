@@ -13,9 +13,9 @@ Logos supported by shields.io: https://simpleicons.org
 - Secondary languages: Python, JavaScript
 - Primary editor: VS Code
 - Secondary editors: CLion, Qt Creator, IntelliJ, JuCi++
-- Current interests: C++, Cyber-Security, DevOps
-- Secondary interests: Python, Qt, Compilers, Networking, Databases, Distributed Systems, Web
-- Hobbies: Calisthenics, Cooking, Reading (history, religion, philosophy, health, nutrition), Anime, Guitar
+- Current interests: C++, Python, Qt, DevSecOps
+- Secondary interests: Compilers, Networking, Databases, Distributed Systems, Cyber-Security, Web
+- Hobbies: Calisthenics, Cooking, Reading (science, history, religion, philosophy, health, nutrition), Anime, Guitar
 - Music: [Classical music](https://www.youtube.com/watch?v=eLa685J5uA8), [calm piano music](https://www.youtube.com/watch?v=GdyJGbnJpG4), and [synthwave](https://www.youtube.com/watch?v=F7Qx7R655LI), to name a few.
 
 ## Selected Projects
@@ -62,8 +62,3 @@ Most of my open source projects can be found on [my GitLab](https://gitlab.com/M
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
----
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/mangad"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="coffee" /></a>
-</p>
