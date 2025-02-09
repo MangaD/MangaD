@@ -1,6 +1,9 @@
 # David Gonçalves
 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MangaD) [![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/MangaD) [![StackOverflow](https://shields.io/badge/StackOverflow-330F63?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/3049315/mangad)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/MangaD)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)](https://bitbucket.org/MangaD)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/3049315/mangad)
+[![GitHub Gist](https://img.shields.io/badge/GitHub_Gist-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/MangaD)
 
 <!--
 Logos supported by shields.io: https://simpleicons.org
