@@ -33,6 +33,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
+### **📖 Documentation**
+![Doxygen](https://img.shields.io/badge/Doxygen-00599C?style=for-the-badge&logo=doxygen&logoColor=white)
+![Javadoc](https://img.shields.io/badge/Javadoc-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Sphinx](https://img.shields.io/badge/Sphinx-0A5078?style=for-the-badge&logo=sphinx&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![AsciiDoc](https://img.shields.io/badge/AsciiDoc-E40046?style=for-the-badge&logo=asciidoctor&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 ### **🖥️ IDEs & Editors**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
@@ -78,4 +86,3 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
-
