@@ -74,6 +74,7 @@
 
 ### **🤖 AI Coding Assistants**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-FF6F00?style=for-the-badge&logo=grok&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0095FF?style=for-the-badge&logo=github&logoColor=white)
 ![Codeium](https://img.shields.io/badge/Codeium-6200EA?style=for-the-badge&logo=codeium&logoColor=white)
 
@@ -86,7 +87,7 @@
 - 🔹 [HF Workshop](https://gitlab.com/MangaD/hf-workshop/) & [libswf](https://gitlab.com/MangaD/libswf)  
 - 🤖 [HF Discord Bot](https://gitlab.com/MangaD/hf-discord-bot)  
 - 🌐 [Personal Website](https://davidg.cc)  
-- 🔌 [C++11 Socket Library](https://bitbucket.org/MangaD/libsocket)  
+- 🔌 [C++17 Socket Library](https://github.com/MangaD/libsocket)  
 
 ### **🎓 Academic Projects**
 - 📜 **M.Sc. Thesis:** [A Reference Implementation of ECMAScript Built-in Objects](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/dissertacao/1128253548922798)  
@@ -116,4 +117,3 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
-
