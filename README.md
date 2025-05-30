@@ -22,61 +22,31 @@
 
 ## **🛠️ Tech Stack**
 
-### **💻 Programming Languages**
+### **💻 Languages**
 
-- **🚀 Primary:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+* **C++** (primary), **Python**, **Java**, **PHP**
+* **Web:** HTML, CSS, JavaScript, TypeScript
 
-- **📌 Secondary:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **📚 Frameworks & Libraries**
 
-### **🛠️ Tools & Frameworks**
+* **C++:** Qt, GoogleTest, Google Benchmark, Protocol Buffers, gRPC, pybind11
+* **JavaScript:** React, Node.js
 
-- **🚀 Primary:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+### **🔧 Tools**
 
-- **📌 Secondary:**  
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### **📖 Documentation**
-
-- **🚀 Primary:**  
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Doxygen](https://img.shields.io/badge/Doxygen-00599C?style=for-the-badge&logo=doxygen&logoColor=white) 
-
-- **📌 Secondary:**  
-![AsciiDoc](https://img.shields.io/badge/AsciiDoc-E40046?style=for-the-badge&logo=asciidoctor&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Javadoc](https://img.shields.io/badge/Javadoc-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Sphinx](https://img.shields.io/badge/Sphinx-0A5078?style=for-the-badge&logo=sphinx&logoColor=white)
+* **Version Control:** Git, GitHub, GitLab, Bitbucket
+* **CI/CD & DevOps:** GitHub Actions, GitLab CI/CD, Docker
+* **Docs:** Markdown, AsciiDoc, Sphinx, Doxygen, Javadoc, LaTeX
 
 ### **🖥️ IDEs & Editors**
 
-- **🚀 Primary:**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-- **📌 Secondary:**  
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+* **General:** VS Code
+* **C++:** CLion, Qt Creator, Visual Studio
+* **Java:** IntelliJ IDEA
 
 ### **🤖 AI Coding Assistants**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-FF6F00?style=for-the-badge&logo=grok&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0095FF?style=for-the-badge&logo=github&logoColor=white)
-![Codeium](https://img.shields.io/badge/Codeium-6200EA?style=for-the-badge&logo=codeium&logoColor=white)
+
+* ChatGPT, Grok, GitHub Copilot, Codeium, JetBrains AI
 
 ---
 
@@ -93,9 +63,6 @@
 - 📜 **M.Sc. Thesis:** [A Reference Implementation of ECMAScript Built-in Objects](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/dissertacao/1128253548922798)  
 - 🔑 [Smartphone as a Security Token](https://github.com/MangaD/SIRS-Project)  
 - 🔗 [P2Photo: P2P Secure Photo Storage](https://github.com/MangaD/P2Photo)  
-
-### **💼 Professional**
-- 🏢 [The Rich Group](https://gitlab.com/insomnium-eye/insomnium-eye.gitlab.io)
 
 ---
 
@@ -117,3 +84,4 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
+
