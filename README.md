@@ -57,7 +57,7 @@
 - 🔹 [HF Workshop](https://gitlab.com/MangaD/hf-workshop/) & [libswf](https://gitlab.com/MangaD/libswf)  
 - 🤖 [HF Discord Bot](https://gitlab.com/MangaD/hf-discord-bot)  
 - 🌐 [Personal Website](https://davidg.cc)  
-- 🔌 [C++17 Socket Library](https://github.com/MangaD/libsocket)  
+- 🔌 [C++17 Socket Library](https://github.com/MangaD/jsocketpp)  
 
 ### **🎓 Academic Projects**
 - 📜 **M.Sc. Thesis:** [A Reference Implementation of ECMAScript Built-in Objects](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/dissertacao/1128253548922798)  
