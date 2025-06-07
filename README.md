@@ -51,18 +51,27 @@
 ---
 
 ## **📂 Selected Projects**
-📌 Most of my open-source projects are on **[my GitLab](https://gitlab.com/MangaD).**
+📌 Most of my open-source projects are hosted on **[GitLab](https://gitlab.com/MangaD)**. Below are a few selected ones:
 
-### **🚀 Personal Projects**
-- 🔹 [HF Workshop](https://gitlab.com/MangaD/hf-workshop/) & [libswf](https://gitlab.com/MangaD/libswf)  
-- 🤖 [HF Discord Bot](https://gitlab.com/MangaD/hf-discord-bot)  
-- 🌐 [Personal Website](https://davidg.cc)  
+### **💻 C++ Projects**
+- 🔹 [HF Workshop](https://gitlab.com/MangaD/hf-workshop/)  
+- 🔹 [libswf](https://gitlab.com/MangaD/libswf)  
 - 🔌 [C++17 Socket Library](https://github.com/MangaD/jsocketpp)  
+- 🛠️ [C++ Project Template](https://github.com/MangaD/cpp-project-template)  
+- ⚡ [Event-driven Programming in C++](https://github.com/MangaD/event-driven-cpp)
 
-### **🎓 Academic Projects**
+### **🐍 Python Projects**
+- 🤖 [HF Discord Bot](https://gitlab.com/MangaD/hf-discord-bot)  
+
+### **🌐 Web Projects**
 - 📜 **M.Sc. Thesis:** [A Reference Implementation of ECMAScript Built-in Objects](https://fenix.tecnico.ulisboa.pt/cursos/meic-t/dissertacao/1128253548922798)  
+- 🌐 [Personal Website](https://davidg.cc)  
+- 🎮 [Hero Fighter Empire](https://hf-empire.com/)
+
+### **🔒 IT Security Projects**
 - 🔑 [Smartphone as a Security Token](https://github.com/MangaD/SIRS-Project)  
 - 🔗 [P2Photo: P2P Secure Photo Storage](https://github.com/MangaD/P2Photo)  
+- 🛡️ [HDS Notary](https://gitlab.com/MangaD/hds_notary)
 
 ---
 
@@ -84,4 +93,3 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
-
