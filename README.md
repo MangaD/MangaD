@@ -56,7 +56,7 @@
 ### **💻 C++ Projects**
 - 🔹 [HF Workshop](https://gitlab.com/MangaD/hf-workshop/)  
 - 🔹 [libswf](https://gitlab.com/MangaD/libswf)  
-- 🔌 [C++17 Socket Library](https://github.com/MangaD/jsocketpp)  
+- 🔌 [jsocketpp](https://github.com/MangaD/jsocketpp) (C++20 socket library)  
 - 🛠️ [C++ Project Template](https://github.com/MangaD/cpp-project-template)  
 - ⚡ [Event-driven Programming in C++](https://github.com/MangaD/event-driven-cpp)
 
