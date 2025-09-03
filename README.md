@@ -16,7 +16,7 @@
 - 🎸 Hobbies: **Calisthenics, Cooking, Reading (Science, History, Religion, Philosophy, Health, Nutrition), Anime, Guitar**
 - ✔️ **Likes:** 🌿 Quietness, 📖 Study, 🔄 Flexibility, 🏋️ Sports, 🥗 Healthy Food, 💆 Wellness, 💧 Water, ☀️ Sun
 - ❌ **Dislikes:** 🔊 Noise, 💡 Office Lights, 🍬 Sugar, 🍷 Alcohol, 🚬 Smoke
-- 🎵 Music: [Classical](https://www.youtube.com/watch?v=eLa685J5uA8), [Piano](https://www.youtube.com/watch?v=GdyJGbnJpG4), [Synthwave](https://www.youtube.com/watch?v=F7Qx7R655LI), [Lofi](https://www.youtube.com/watch?v=q724f3mmiog)
+- 🎵 Music: [Classical](https://www.youtube.com/watch?v=eLa685J5uA8), [Piano](https://www.youtube.com/watch?v=GdyJGbnJpG4), [Synthwave](https://www.youtube.com/watch?v=8J-nlj9jMcY), [Lofi](https://www.youtube.com/watch?v=q724f3mmiog)
 
 ---
 
@@ -93,3 +93,4 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
+
