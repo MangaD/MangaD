@@ -16,7 +16,7 @@
 - 🎸 Hobbies: **Calisthenics, Cooking, Reading (Science, History, Religion, Philosophy, Health, Nutrition), Anime, Guitar**
 - ✔️ **Likes:** 🌿 Quietness, 📖 Study, 🔄 Flexibility, 🏋️ Sports, 🥗 Healthy Food, 💆 Wellness, 💧 Water, ☀️ Sun
 - ❌ **Dislikes:** 🔊 Noise, 💡 Office Lights, 🍬 Sugar, 🍷 Alcohol, 🚬 Smoke
-- 🎵 **Music:** 🎻 [Classical](https://www.youtube.com/watch?v=eLa685J5uA8) · 🎹 [Piano](https://www.youtube.com/watch?v=GdyJGbnJpG4) · 🌌 [Synthwave](https://www.youtube.com/watch?v=8J-nlj9jMcY) ([2](https://www.youtube.com/watch?v=3lP67YQSUys)) · ☕ [Lo-fi](https://www.youtube.com/watch?v=q724f3mmiog)
+- 🎵 **Music:** 🎻 [Classical](https://www.youtube.com/watch?v=eLa685J5uA8) · 🎹 Pomodoro <sup>[1](https://www.youtube.com/watch?v=GdyJGbnJpG4) [2](https://www.youtube.com/watch?v=gHmq9Xd6qMQ)</sup> · 🌌 Synthwave <sup>[1](https://www.youtube.com/watch?v=8J-nlj9jMcY) [2](https://www.youtube.com/watch?v=3lP67YQSUys)</sup> · ☕ [Lo-fi](https://www.youtube.com/watch?v=q724f3mmiog)
 
 ---
 
