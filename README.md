@@ -46,7 +46,7 @@
 
 ### **🤖 AI Coding Assistants**
 
-* ChatGPT, Grok, GitHub Copilot, Codeium, JetBrains AI
+* ChatGPT, Grok, [GitHub Copilot](https://github.com/copilot), Windsurf, JetBrains AI
 
 ---
 
@@ -93,3 +93,4 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
+
