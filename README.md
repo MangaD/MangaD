@@ -16,7 +16,7 @@
 - 🎸 Hobbies: **Calisthenics, Cooking, Reading (Science, History, Religion, Philosophy, Health, Nutrition), Anime, Guitar**
 - ✔️ **Likes:** 🌿 Quietness, 📖 Study, 🔄 Flexibility, 🏋️ Sports, 🥗 Healthy Food, 💆 Wellness, 💧 Water, ☀️ Sun
 - ❌ **Dislikes:** 🔊 Noise, 💡 Office Lights, 🍬 Sugar, 🍷 Alcohol, 🚬 Smoke
-- 🎵 **Music:** 🎻 [Classical](https://www.youtube.com/watch?v=eLa685J5uA8) · 🎹 Pomodoro <sup>[1](https://www.youtube.com/watch?v=GdyJGbnJpG4) [2](https://www.youtube.com/watch?v=gHmq9Xd6qMQ)</sup> · 🌌 Synthwave <sup>[1](https://www.youtube.com/watch?v=8J-nlj9jMcY)</sup> · ☕ [Lo-fi](https://www.youtube.com/watch?v=q724f3mmiog)
+- 🎵 **Music:** 🎻 [Classical](https://www.youtube.com/watch?v=eLa685J5uA8) · 🎹 Pomodoro <sup>[1](https://www.youtube.com/watch?v=GdyJGbnJpG4) [2](https://www.youtube.com/watch?v=gHmq9Xd6qMQ)</sup> · 🌌 Synthwave <sup>[1](https://www.youtube.com/watch?v=8J-nlj9jMcY)</sup> · 🌊 [Chillstep](https://www.youtube.com/watch?v=am1VJP0RnmQ) · ☕ [Lo-fi](https://www.youtube.com/watch?v=q724f3mmiog)
 
 ---
 
@@ -77,9 +77,14 @@
 
 ## **📊 GitHub Statistics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="General stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MangaD&theme=github_dark&show_icons=true&hide_border=true&layout=compact" alt="Top languages"/>
+<!-- 
+Taken from: https://github-stats-extended.vercel.app/frontend 
+The `style` tag is ignored for security reasons,
+-->
+
+<p align="center" style="margin-bottom: 0;padding-bottom: 0;display: flex;justify-content: center;align-items: center;gap: 14px;flex-flow: wrap;">
+  <img src="https://github-stats-extended.vercel.app/api?username=mangad&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github" alt="General stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=mangad&layout=compact&langs_count=8&theme=radical" alt="Top languages"/>
 </p>
 
 ---
@@ -93,4 +98,3 @@
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
-
