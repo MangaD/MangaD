@@ -43,7 +43,7 @@
 * **General:** VS Code
 * **C++:** CLion, Qt Creator, Visual Studio
 * **Java:** IntelliJ IDEA
-* **Shell:** Nano, Vim
+* **Shell:** Neovim, Vim, Nano
 
 ### **🤖 AI Coding Assistants**
 
@@ -99,4 +99,3 @@ The `style` tag is ignored for security reasons,
     <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
-
